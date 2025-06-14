@@ -1,0 +1,1 @@
+# Zhvillimi-i-modelit-per-diagnostikimin-e-Hipotiroidizmit-dhe-Hipertiroidizmit-me-algoritmet-ML-
